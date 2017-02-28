@@ -1,5 +1,3 @@
-# CS3380
-## Database Applications and Information Systems
+# Database Projects
 
- Labs and Final Project
- Spring 2016
+Simple projects using a MySQL database, PHP and Bootstrap
